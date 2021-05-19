@@ -1,0 +1,11 @@
+{
+  "name": "mvc-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FrankFang/mvc-demo-1.git",
+  "author": "DC <easetreychen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
