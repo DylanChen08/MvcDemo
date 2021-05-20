@@ -1,11 +1,13 @@
 {
-  "name": "mvc-demo",
+  "name": "mvc-demo-1",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:FrankFang/mvc-demo-1.git",
-  "author": "DC <easetreychen@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.6.0"
+    "jquery": "^3.4.1",
+    "vue": "^2.6.10"
+  },
+  "alias": {
+    "vue" : "./node_modules/vue/dist/vue.common.js"
   }
 }
